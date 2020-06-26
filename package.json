@@ -1,0 +1,8 @@
+{
+  "name": "aws_lambda_auto_deploy_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-lkcozy:lkcozy/aws_lambda_auto_deploy_test.git",
+  "author": "Kan Luo <lkklcozy@gmail.com>",
+  "license": "MIT"
+}
